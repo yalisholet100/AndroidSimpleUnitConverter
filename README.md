@@ -3,6 +3,8 @@ This is a simple unit converter app for Android. You can load up any convertible
 
 The app uses a very simple user interface, which works both in landscape and portrait. It supports API 16 and up (Jelly Bean).
 
+![alt tag](https://raw.githubusercontent.com/rogerdcarvalho/AndroidSimpleUnitConverter/master/Screenshot.png)
+
 # Structure
 The most important files of this repository are:
 
