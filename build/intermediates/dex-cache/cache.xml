@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Roger/Dropbox/UCLA/Android1/Projects/UnitConverter/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Roger/Dropbox/UCLA/Android1/Projects/UnitConverter/app/build/intermediates/pre-dexed/debug/classes-7ed99e3be48b4ebe143d728e0d2322bc8a45a505.jar" />
+    </item>
+    <item
+        jar="/Users/Roger/Dropbox/UCLA/Android1/Projects/UnitConverter/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Roger/Dropbox/UCLA/Android1/Projects/UnitConverter/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-52cdf0a6bd92aef5304ea041bc34bbf1e36c970f.jar" />
+    </item>
+    <item
+        jar="/Users/Roger/Dropbox/UCLA/Android1/Projects/W3.1_CalFootballTicketCalc/UnitConverter/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Roger/Dropbox/UCLA/Android1/Projects/W3.1_CalFootballTicketCalc/UnitConverter/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-47aeb75844fa7d35ac5293ae0f0bf9c190423f41.jar" />
+    </item>
+    <item
+        jar="/Users/Roger/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Roger/Dropbox/UCLA/Android1/Projects/W3.1_CalFootballTicketCalc/UnitConverter/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-76261d06aaca22dcb24e4650302adbd28eb89c18.jar" />
+    </item>
+    <item
+        jar="/Users/Roger/Dropbox/UCLA/Android1/Projects/UnitConverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/Roger/Dropbox/UCLA/Android1/Projects/UnitConverter/app/build/intermediates/pre-dexed/debug/classes-3c19aa05254f952d1f5541e10c7d7364e4835dc9.jar" />
+    </item>
+    <item
+        jar="/Users/Roger/Dropbox/UCLA/Android1/Projects/W3.1_CalFootballTicketCalc/UnitConverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/Roger/Dropbox/UCLA/Android1/Projects/W3.1_CalFootballTicketCalc/UnitConverter/app/build/intermediates/pre-dexed/debug/classes-69e866dd457601d9e83f76b5452d89d5e0fee709.jar" />
+    </item>
+    <item
+        jar="/Users/Roger/Dropbox/UCLA/Android1/Projects/W3.1_CalFootballTicketCalc/UnitConverter/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Roger/Dropbox/UCLA/Android1/Projects/W3.1_CalFootballTicketCalc/UnitConverter/app/build/intermediates/pre-dexed/debug/classes-2aeedae2b7022a3b8960e89e56a25da000458826.jar" />
+    </item>
+
+</items>
