@@ -7,8 +7,8 @@ The app uses a very simple user interface, which works both in landscape and por
 The most important files of this repository are:
 
 - app/src/main/java/com/rcarvalho/unitconverter/UnitConverterFragment.java (holds the main source code, which is executed when the app runs)
-- app/src/main/java/com/rcarvalho/unitconverter/BaseUnit.java (holds the code that manages baseunits, which contain all information and logic around converting a given profile of units amongst eachother
-- app/src/main/res/values/strings.xml (holds all localized strings used in the app, and also contains the actual profiles of units that are supported. You can freely add and remove profiles for conversion in this file, the app will automatically load these. Currently the only locale implemented is US English, but this can easily be extended to any number of languages.
+- app/src/main/java/com/rcarvalho/unitconverter/BaseUnit.java (holds the code that manages baseunits, which contain all information and logic around converting a given profile of units amongst eachother)
+- app/src/main/res/values/strings.xml (holds all localized strings used in the app, and also contains the actual profiles of units that are supported. You can freely add and remove profiles for conversion in this file, the app will automatically load these. Currently the only locale implemented is US English, but this can easily be extended to any number of languages.)
 - app/src/main/res/layout/ and app/src/main/res/layout-land/ (these folders contain the UI used)
 
 This project was created using Android Studio. To compile, simply load the file UnitConverter.iml in Android studio and run. Edit the strings.xml file to support the measures of unit conversion you would like and update the UI where you see fit.
