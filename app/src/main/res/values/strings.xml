@@ -3,7 +3,7 @@
     To load a profile of convertible units, simply add the name of the profile under the array
     "profiles". Then create 2 new string arrays named "units<profile name>" (under which you list
     all names of the units within this profile), and "units<profileName>Values" (under which you
-    list all of the multipliers to convert the units amongst each other.
+    list all of the multipliers to convert the units amongst each other).
 
     Any profile added should have at least 2 items, and 1 of the items should have a multiplier of 1,
     to serve as a reference to convert the items freely amongst each other.
