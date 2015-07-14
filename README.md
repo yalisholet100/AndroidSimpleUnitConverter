@@ -23,16 +23,16 @@ Any profile added should have at least 2 items, and 1 of the items should have a
 
 For example, if I want to convert apples to apple pies, and I know 1 apple pie requires 3 apples, I would enter the following:
 
-1. Under <string-array name="profiles">, add: <item>ApplesToPies</item>
+1. Under ```<string-array name="profiles">```, add: ```<item>ApplesToPies</item>```
 2. Then, right underneath the last string array, add:
-    <string-array name="unitsApplesToPies">
+    ```<string-array name="unitsApplesToPies">
         <item>Apples</item>
         <item>Pies</item>
     </string-array>
     <string-array name="unitsApplesToPiesValues">
         <item>3</item>
         <item>1</item>
-    </string-array>
+    </string-array>```
 3. Then save the file and open the app. You should now see 'ApplesToPies' as an option for conversion.
 
 Optional (advanced): You can also add a base number to apply during multiplication, this base number will be added before and subtracted after multiplication. To use this, simply add another string array named "units<profile name>Base" and add a single item in this array containing the value of the base number. Check the profile for "Temperature" for an example of how this works.
